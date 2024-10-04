@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Mohammed Omar Farooq Qureshi
 
 - 👀 I’m interested in software development, blockchain technology, and cloud computing. I enjoy exploring cutting-edge technologies and working on innovative projects that make a difference.
-- 🌱 I’m currently learning advanced Java, Spring Framework, Solidity, and diving deeper into AWS services.
+- 🌱 I’m currently learning Spring Boot, Spring Security and JWT. 
 - 💞️ I’m looking to collaborate on Java applications, blockchain-based applications, decentralized platforms, and cloud-based solutions.
 - 📫 How to reach me:  
-    - [![Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:md.omarfarooq.q@gmail.com)  
+    - [![Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:md.omarfarooq.q@gmail.com)
     - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mofq786)  
     - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mofq786)
 - 😄 Pronouns: He/Him
@@ -50,16 +50,16 @@
 ## 📊 GitHub Stats
 
 ![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mofq786&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mofq786&theme=radical)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mofq786&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mofq786&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ## 🌱 Education
 **Bachelor of Engineering in Information Technology**  
 MVSR Engineering College, 2024  
-(Graduated with 78%)
 
 ---
 
